@@ -8,6 +8,7 @@ import javax.persistence.Table;
 @Entity
 @Table
 public class Dept {
+	//asd
    private int id;
    private String dname;
    
